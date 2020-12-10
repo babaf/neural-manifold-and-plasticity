@@ -4,3 +4,4 @@ Computational investigation of interplay between the low-dimensional dynamics of
 
 Corresponding paper: [Feulner and Clopath, 2020](https://www.biorxiv.org/content/10.1101/2020.02.21.959163v1).
 
+Requires Python 3.
