@@ -2,6 +2,6 @@
 
 Computational investigation of interplay between the low-dimensional dynamics of a recurrent neural network and plastic recurrent weight changes.
 
-Corresponding paper: [Feulner and Clopath, 2020](https://www.biorxiv.org/content/10.1101/2020.02.21.959163v1).
+Corresponding paper: [Feulner and Clopath, 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008621).
 
 Requires Python 3.
